@@ -1,2 +1,2 @@
-# Hostel_room_allocation
-Here the hostel room is allotted to students, considering only one gender, Hostel room allocation with lot of criteria will be updated soon.
+||Hostel_Room_Allocation
+Based on student information fetched from a SQL Database the students are alloted to deifferent hostel rooms based on their department of study.Currently works only for one Gender of students.
